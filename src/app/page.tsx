@@ -39,8 +39,8 @@ const projects: Project[] = [
     description:
       "학습 과정과 프로젝트를 한곳에 정리하고, 결과물을 꾸준히 업데이트하기 위한 개인 포트폴리오입니다.",
     techStack: ["Next.js", "TypeScript", "CSS"],
-    repoUrl: "",
-    demoUrl: "",
+    repoUrl: "https://github.com/yeo0w0/security-portfolio.git",
+    demoUrl: "https://security-portfolio-tau.vercel.app/",
     category: "web",
   },
 ];
